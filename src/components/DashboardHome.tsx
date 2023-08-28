@@ -61,7 +61,7 @@ const DashboardHome = (props: Props) => {
         </div>
       </div>
 
-      <div className='flex justify-center cursor-pointer my-4 mb-20'>
+      <div className='flex justify-center cursor-pointer my-4 mb-20 lg:mb-0'>
         <h1 className='bg-white border border-slate-400 px-3 py-2 rounded-md text-xs'>
           Load More
         </h1>
